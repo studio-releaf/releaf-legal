@@ -1,6 +1,6 @@
-# Re-Leaf — Legal Documents
+# Fovabera — Legal Documents
 
-This repository hosts the official legal documents for **Re-Leaf**, a mobile application designed to help users quit smoking.
+This repository hosts the official legal documents for **Fovabera**, a mobile application designed to help users quit smoking.
 
 ## 📄 Documents
 
@@ -34,4 +34,4 @@ You can also link directly with parameters:
 
 ---
 
-© 2026 Re-Leaf. All rights reserved.
+© 2026 Fovabera. All rights reserved.
