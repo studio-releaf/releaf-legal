@@ -49,12 +49,17 @@ You may not:
 
 ## 6. Premium Features
 
-Fovabera offers a one-time premium upgrade ($4.99 lifetime, prices may vary by region):
-- Unlimited wishlist
-- Advanced statistics
-- Body Map (detailed health visualization)
-- All milestone notifications
-- Custom motivation messages
+Fovabera is free to use. For the first 7 days, all features are available to everyone. After this 7-day period, the following features require a one-time premium purchase:
+- Body Map (detailed health recovery visualization)
+- Reward cards (setting and claiming personal rewards with the money saved from not smoking)
+
+The premium purchase is a one-time payment that grants permanent, unlimited access to these features. There are no recurring subscriptions or automatic renewals. Prices are shown in the App at the time of purchase and vary by country and region.
+
+**Important:**
+- The premium upgrade is a one-time payment — you are not charged again.
+- All other features of the App remain free.
+- Purchases are processed by Apple App Store / Google Play Store, and their refund policies apply.
+- Premium is non-refundable after purchase except where required by law.
 
 **Important:**
 - Premium is **non-refundable** after purchase (except where required by law)
