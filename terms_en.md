@@ -5,13 +5,13 @@
 
 ## 1. Agreement
 
-By downloading, installing, or using **Re-Leaf** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
+By downloading, installing, or using **Fovabera** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
 
 ## 2. The App
 
-Re-Leaf is a mobile application designed to help users quit smoking by tracking progress, providing motivation, and showing health benefits over time.
+Fovabera is a mobile application designed to help users quit smoking by tracking progress, providing motivation, and showing health benefits over time.
 
-**Re-Leaf is NOT:**
+**Fovabera is NOT:**
 - A medical device
 - A substitute for professional medical advice
 - A guarantee of quitting success
@@ -20,7 +20,7 @@ Always consult a healthcare professional for medical guidance.
 
 ## 3. Eligibility
 
-To use Re-Leaf, you must be:
+To use Fovabera, you must be:
 - At least 18 years old
 - Legally capable of entering a binding agreement
 - Not prohibited from using the App by applicable law
@@ -39,7 +39,7 @@ You must not:
 
 ## 5. License to Use
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to use Re-Leaf for personal, non-commercial purposes.
+We grant you a limited, non-exclusive, non-transferable, revocable license to use Fovabera for personal, non-commercial purposes.
 
 You may not:
 - Copy, modify, or distribute the App
@@ -49,7 +49,7 @@ You may not:
 
 ## 6. Premium Features
 
-Re-Leaf offers a one-time premium upgrade ($4.99 lifetime, prices may vary by region):
+Fovabera offers a one-time premium upgrade ($4.99 lifetime, prices may vary by region):
 - Unlimited wishlist
 - Advanced statistics
 - Body Map (detailed health visualization)
@@ -87,7 +87,7 @@ We do not guarantee:
 - Specific results from using the App
 - That the App will work on all devices
 
-**Health Disclaimer:** Re-Leaf provides information for educational and motivational purposes only. It is not medical advice. Quitting smoking can have side effects. Consult your doctor.
+**Health Disclaimer:** Fovabera provides information for educational and motivational purposes only. It is not medical advice. Quitting smoking can have side effects. Consult your doctor.
 
 ## 10. Limitation of Liability
 
@@ -131,4 +131,4 @@ For questions about these Terms:
 
 ## 16. Acknowledgment
 
-By using Re-Leaf, you acknowledge that you have read, understood, and agreed to these Terms of Service and our Privacy Policy.
+By using Fovabera, you acknowledge that you have read, understood, and agreed to these Terms of Service and our Privacy Policy.
