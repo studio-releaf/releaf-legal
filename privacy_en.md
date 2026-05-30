@@ -5,12 +5,12 @@
 
 ## 1. Introduction
 
-Welcome to **Re-Leaf** ("we", "our", "us", or "the App"). Re-Leaf is a mobile application that helps users on their journey to quit smoking. Your privacy is important to us. This Privacy Policy explains how we collect, use, share, and protect your personal data.
+Welcome to **Fovabera** ("we", "our", "us", or "the App"). Fovabera is a mobile application that helps users on their journey to quit smoking. Your privacy is important to us. This Privacy Policy explains how we collect, use, share, and protect your personal data.
 
-By using Re-Leaf, you agree to the practices described in this policy. If you do not agree, please do not use the App.
+By using Fovabera, you agree to the practices described in this policy. If you do not agree, please do not use the App.
 
 **Data Controller:**
-- **App Name:** Re-Leaf
+- **App Name:** Fovabera
 - **Email:** releaf.support@gmail.com
 - **Jurisdiction:** Eskişehir, Türkiye
 
@@ -119,7 +119,7 @@ We will respond within 30 days.
 
 ## 8. Children's Privacy
 
-Re-Leaf is intended for users **18 years and older**. We do not knowingly collect data from minors. If you believe a minor has registered, please contact us immediately.
+Fovabera is intended for users **18 years and older**. We do not knowingly collect data from minors. If you believe a minor has registered, please contact us immediately.
 
 ## 9. International Data Transfers
 
