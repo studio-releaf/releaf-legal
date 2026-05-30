@@ -5,13 +5,13 @@
 
 ## 1. Anlaşma
 
-**Re-Leaf**'i ("uygulama") indirerek, kurarak veya kullanarak bu Kullanım Koşullarına ("Koşullar") bağlı kalmayı kabul edersiniz. Kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
+**Fovabera**'yı ("uygulama") indirerek, kurarak veya kullanarak bu Kullanım Koşullarına ("Koşullar") bağlı kalmayı kabul edersiniz. Kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
 
 ## 2. Uygulama Hakkında
 
-Re-Leaf; ilerlemeyi takip ederek, motivasyon sağlayarak ve zaman içinde sağlık iyileşmelerini göstererek kullanıcıların sigarayı bırakmasına yardımcı olan bir mobil uygulamadır.
+Fovabera; ilerlemeyi takip ederek, motivasyon sağlayarak ve zaman içinde sağlık iyileşmelerini göstererek kullanıcıların sigarayı bırakmasına yardımcı olan bir mobil uygulamadır.
 
-**Re-Leaf ŞUNLAR DEĞİLDİR:**
+**Fovabera ŞUNLAR DEĞİLDİR:**
 - Tıbbi bir cihaz
 - Profesyonel tıbbi tavsiye yerine geçen bir araç
 - Sigarayı bırakma başarısının garantisi
@@ -20,7 +20,7 @@ Tıbbi rehberlik için her zaman bir sağlık uzmanına danışın.
 
 ## 3. Uygunluk
 
-Re-Leaf'i kullanmak için:
+Fovabera'yı kullanmak için:
 - En az 18 yaşında olmalısınız
 - Bağlayıcı bir sözleşme yapmaya hukuken ehil olmalısınız
 - Uygulanabilir kanunlar size uygulamayı kullanmayı yasaklamamış olmalı
@@ -39,7 +39,7 @@ Yapmamanız gerekenler:
 
 ## 5. Kullanım Lisansı
 
-Size, Re-Leaf'i kişisel, ticari olmayan amaçlarla kullanmanız için sınırlı, münhasır olmayan, devredilemez ve geri alınabilir bir lisans veriyoruz.
+Size, Fovabera'yı kişisel, ticari olmayan amaçlarla kullanmanız için sınırlı, münhasır olmayan, devredilemez ve geri alınabilir bir lisans veriyoruz.
 
 Yapmamanız gerekenler:
 - Uygulamayı kopyalamak, değiştirmek veya dağıtmak
@@ -49,17 +49,17 @@ Yapmamanız gerekenler:
 
 ## 6. Premium Özellikler
 
-Re-Leaf, tek seferlik premium yükseltme sunar (39,99 TL ömür boyu, fiyatlar bölgeye göre değişebilir):
-- Sınırsız istek listesi
-- Detaylı istatistikler
-- Vücut Haritası (ayrıntılı sağlık görselleştirmesi)
-- Tüm milestone bildirimleri
-- Özel motivasyon mesajları
+Fovabera'nın kullanımı ücretsizdir. İlk 7 gün boyunca tüm özellikler herkese açıktır. Bu 7 günlük sürenin sonunda aşağıdaki özellikler tek seferlik premium satın alma gerektirir:
+- Vücut Haritası (ayrıntılı sağlık iyileşme görselleştirmesi)
+- Ödül kartları (sigara içmeyerek biriktirdiğiniz parayla kendinize ödüller belirleme ve alma)
+
+Premium satın alma, bu özelliklere kalıcı ve sınırsız erişim sağlayan tek seferlik bir ödemedir. Otomatik yenilenen abonelik veya tekrarlayan ücret yoktur. Fiyatlar satın alma sırasında uygulamada gösterilir ve ülkeye/bölgeye göre değişir.
 
 **Önemli:**
-- Premium satın alımları **iade edilemez** (kanunen gereken haller hariç)
-- Satın alımlar Apple App Store / Google Play Store tarafından işlenir
-- Apple/Google'ın iade politikaları geçerlidir
+- Premium yükseltme tek seferlik bir ödemedir — tekrar ücretlendirilmezsiniz.
+- Uygulamanın diğer tüm özellikleri ücretsiz kalır.
+- Satın alımlar Apple App Store / Google Play Store tarafından işlenir ve onların iade politikaları geçerlidir.
+- Premium, kanunen gereken haller dışında satın alma sonrası iade edilemez.
 
 ## 7. Kullanıcı Davranışları
 
@@ -87,7 +87,7 @@ Garanti etmiyoruz:
 - Uygulamayı kullanmaktan elde edilecek belirli sonuçları
 - Uygulamanın tüm cihazlarda çalışacağını
 
-**Sağlık Sorumluluk Reddi:** Re-Leaf, eğitim ve motivasyon amaçlı bilgi sağlar. Tıbbi tavsiye değildir. Sigarayı bırakmak yan etkilere yol açabilir. Doktorunuza danışın.
+**Sağlık Sorumluluk Reddi:** Fovabera, eğitim ve motivasyon amaçlı bilgi sağlar. Tıbbi tavsiye değildir. Sigarayı bırakmak yan etkilere yol açabilir. Doktorunuza danışın.
 
 ## 10. Sorumluluğun Sınırlandırılması
 
@@ -131,4 +131,4 @@ Bu Koşullarla ilgili sorularınız için:
 
 ## 16. Kabul
 
-Re-Leaf'i kullanarak, bu Kullanım Koşullarını ve Gizlilik Politikamızı okuduğunuzu, anladığınızı ve kabul ettiğinizi onaylarsınız.
+Fovabera'yı kullanarak, bu Kullanım Koşullarını ve Gizlilik Politikamızı okuduğunuzu, anladığınızı ve kabul ettiğinizi onaylarsınız.
