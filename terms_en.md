@@ -1,139 +1,220 @@
 # Terms of Service
 
 **Effective Date:** April 26, 2026
-**Last Updated:** April 26, 2026
+**Last Updated:** May 31, 2026
 
-## 1. Agreement
+## 1. Acceptance of Terms
 
-By downloading, installing, or using **Fovabera** ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
+By downloading, installing, or using **Fovabera** ("the App," "we," "our," or "us"), you ("you," "your," or "User") agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use Fovabera.
 
-## 2. The App
+## 2. Description of Service
 
-Fovabera is a mobile application designed to help users quit smoking by tracking progress, providing motivation, and showing health benefits over time.
+Fovabera is a mobile application designed to help users on their journey to quit smoking. The App provides:
 
-**Fovabera is NOT:**
-- A medical device
-- A substitute for professional medical advice
-- A guarantee of quitting success
-
-Always consult a healthcare professional for medical guidance.
+- Personal tracking of quit-smoking progress
+- Statistics on cigarettes avoided, money saved, and health benefits
+- Motivational notifications
+- Goal-setting and reward features
+- Community statistics (anonymous)
 
 ## 3. Eligibility
 
-To use Fovabera, you must be:
-- At least 18 years old
-- Legally capable of entering a binding agreement
-- Not prohibited from using the App by applicable law
+You must be **at least 18 years old** to use Fovabera. By using the App, you represent and warrant that:
 
-## 4. Account Registration
+- You are at least 18 years of age
+- You have the legal capacity to enter into a binding agreement
+- You will use the App in compliance with these Terms and applicable laws
 
-You are responsible for:
-- Providing accurate registration information
-- Maintaining the security of your password
-- All activity under your account
+## 4. Medical Disclaimer
 
-You must not:
-- Share your account credentials
-- Create accounts using fake or disposable email addresses
-- Impersonate others
+⚠️ **IMPORTANT:** Fovabera is **not a medical device** and does not provide medical advice, diagnosis, or treatment.
 
-## 5. License to Use
+- Fovabera is a **motivational and tracking tool only**
+- The App is **not a substitute for professional medical advice**
+- Always consult a qualified healthcare provider for medical advice related to smoking cessation
+- If you experience severe withdrawal symptoms, depression, suicidal thoughts, or any medical emergency, **seek immediate professional help**
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to use Fovabera for personal, non-commercial purposes.
+The information and statistics provided by Fovabera (such as "life regained" or "health improvements") are based on general scientific research and **may not apply to your individual circumstances**.
 
-You may not:
-- Copy, modify, or distribute the App
-- Reverse engineer or decompile the App
-- Use the App for illegal activities
-- Resell or commercialize App features
+## 5. Account Registration
 
-## 6. Premium Features
+To use Fovabera, you must create an account. You agree to:
+
+- Provide accurate, current, and complete information during registration
+- Maintain the security of your password and account
+- Notify us immediately of any unauthorized access to your account
+- Be responsible for all activities under your account
+- **Not** create accounts on behalf of others or share your account credentials
+
+## 6. Premium Features and Payments
+
+### 6.1 Free Use and Premium Features
 
 Fovabera is free to use. For the first 7 days, all features are available to everyone. After this 7-day period, the following features require a one-time premium purchase:
+
 - Body Map (detailed health recovery visualization)
 - Reward cards (setting and claiming personal rewards with the money saved from not smoking)
 
-The premium purchase is a one-time payment that grants permanent, unlimited access to these features. There are no recurring subscriptions or automatic renewals. Prices are shown in the App at the time of purchase and vary by country and region.
+All other features of the App remain free.
 
-**Important:**
-- The premium upgrade is a one-time payment — you are not charged again.
-- All other features of the App remain free.
-- Purchases are processed by Apple App Store / Google Play Store, and their refund policies apply.
-- Premium is non-refundable after purchase except where required by law.
+### 6.2 One-Time Purchase
 
-**Important:**
-- Premium is **non-refundable** after purchase (except where required by law)
-- Purchases are processed by Apple App Store / Google Play Store
-- Refund policies of Apple/Google apply
+The premium purchase is a **one-time payment** that grants permanent, unlimited access to the premium features. There are **no recurring subscriptions and no automatic renewals** — you are not charged again.
+
+### 6.3 Payment Processing
+
+- All payments are processed by **Apple App Store** (iOS) or **Google Play Store** (Android)
+- We do **not** store or process your payment information
+- Prices are shown in the App at the time of purchase and vary by country and region
+
+### 6.4 Refunds
+
+Refund policies are governed by the platform you used to purchase (Apple App Store or Google Play Store). We do not directly process refunds. Premium is non-refundable after purchase except where required by law.
 
 ## 7. User Conduct
 
-You agree NOT to:
-- Submit false, misleading, or harmful content
-- Harass, threaten, or impersonate others
-- Use the App to violate any law
-- Interfere with App functionality
-- Attempt unauthorized access
+When using Fovabera, you agree NOT to:
 
-We reserve the right to suspend or terminate accounts that violate these Terms.
+- ❌ Use the App for any illegal purpose
+- ❌ Attempt to gain unauthorized access to other users' accounts or our systems
+- ❌ Reverse engineer, decompile, or disassemble the App
+- ❌ Use automated systems (bots, scrapers) to access the App
+- ❌ Interfere with the proper functioning of the App
+- ❌ Upload or transmit harmful code, viruses, or malware
+- ❌ Impersonate another person or entity
+- ❌ Violate any applicable laws or regulations
+- ❌ Use the App to harass, abuse, or harm others
 
 ## 8. Intellectual Property
 
-All content in the App (including but not limited to text, graphics, logos, code, animations) is owned by us or our licensors and protected by intellectual property laws.
+### 8.1 Our Rights
 
-You retain ownership of any data you create (e.g., goals, notes), but grant us a license to process and display this data within the App.
+Fovabera and all its content, features, design, code, logos, and trademarks are the exclusive property of Fovabera and are protected by international copyright, trademark, and other intellectual property laws.
 
-## 9. Disclaimers
+### 8.2 Limited License
 
-THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND.
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes, subject to these Terms.
 
-We do not guarantee:
-- That the App will be error-free or uninterrupted
-- Specific results from using the App
-- That the App will work on all devices
+### 8.3 Your Content
 
-**Health Disclaimer:** Fovabera provides information for educational and motivational purposes only. It is not medical advice. Quitting smoking can have side effects. Consult your doctor.
+You retain ownership of any data you input into Fovabera (such as quit dates, slip-up notes, wishlist items). By using the App, you grant us a license to use, store, and process this data **solely** to provide the service to you.
 
-## 10. Limitation of Liability
+## 9. Privacy
 
-To the maximum extent permitted by law, we are NOT liable for:
-- Indirect, incidental, or consequential damages
-- Loss of data, profits, or revenue
-- Damages exceeding the amount you paid for the App in the past 12 months
+Your use of Fovabera is also governed by our **Privacy Policy**, which is incorporated into these Terms by reference. Please review the Privacy Policy at: https://studio-releaf.github.io/releaf-legal/?doc=privacy&lang=en
 
-## 11. Indemnification
+## 10. Notifications
 
-You agree to indemnify and hold us harmless from claims arising from:
-- Your use of the App
+By using Fovabera, you consent to receive **local push notifications** related to:
+
+- Daily motivational reminders
+- Milestone celebrations
+- Health benefit updates
+- Important service announcements
+
+You can disable notifications at any time through your device settings.
+
+## 11. Service Availability
+
+- We strive to maintain Fovabera's availability 24/7 but do **not guarantee** uninterrupted service
+- We may temporarily suspend service for maintenance, updates, or unforeseen issues
+- We are not liable for any inconvenience caused by service interruptions
+
+## 12. Updates and Changes
+
+We may update Fovabera to add features, fix bugs, or improve performance. By using the App, you agree to:
+
+- Receive automatic updates (when enabled on your device)
+- Acknowledge that some features may change or be removed
+- Continue using the App at your own discretion after updates
+
+## 13. Termination
+
+### 13.1 By You
+
+You may stop using Fovabera at any time by deleting your account through the App or by contacting us at **ataseversoftware@gmail.com**.
+
+### 13.2 By Us
+
+We reserve the right to suspend or terminate your account if you:
+
+- Violate these Terms
+- Engage in fraudulent or harmful activity
+- Use the App in a way that risks harm to other users or our systems
+
+## 14. Disclaimers
+
+### 14.1 "As Is" Service
+
+Fovabera is provided **"AS IS" and "AS AVAILABLE"** without warranties of any kind, either express or implied, including but not limited to:
+
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Accuracy or reliability of information
+
+### 14.2 Health and Safety
+
+We make **no warranties** that Fovabera will help you successfully quit smoking. Quitting smoking is a personal journey that depends on many factors beyond the App's control.
+
+## 15. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- We are **not liable** for any indirect, incidental, special, consequential, or punitive damages
+- Our total liability for any claim arising from these Terms or your use of Fovabera shall not exceed the amount you paid us (if any) in the 12 months preceding the claim
+- Some jurisdictions do not allow these limitations, so they may not apply to you
+
+## 16. Indemnification
+
+You agree to indemnify and hold harmless Fovabera, its operators, and affiliates from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+
+- Your use of Fovabera
 - Your violation of these Terms
-- Your violation of any law or third-party rights
+- Your violation of any rights of another party
+- Your violation of any applicable law
 
-## 12. Termination
+## 17. Governing Law and Jurisdiction
 
-We may suspend or terminate your account if:
-- You violate these Terms
-- We are required by law
-- We discontinue the App
+These Terms are governed by the laws of the **Republic of Türkiye**, without regard to conflict of law principles.
 
-You may terminate your account at any time via Profile → Delete Account.
+Any disputes arising from these Terms or your use of Fovabera shall be resolved in the courts of **Eskişehir, Türkiye**, unless required otherwise by mandatory consumer protection laws of your country of residence.
 
-## 13. Changes to Terms
+## 18. International Use
 
-We may modify these Terms. The "Last Updated" date reflects the latest version. Continued use after changes constitutes acceptance.
+Fovabera is accessible globally. By using the App from outside Türkiye:
 
-## 14. Governing Law
+- You agree to comply with all applicable local laws
+- You acknowledge that data may be transferred to and stored in countries other than your own
+- You are responsible for ensuring your use complies with your local regulations
 
-These Terms are governed by the laws of **Türkiye**.
+## 19. Severability
 
-For disputes:
-- Consumers may rely on mandatory provisions of their local law
-- Other disputes: Eskişehir Courts and Enforcement Offices
+If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
 
-## 15. Contact
+## 20. Entire Agreement
 
-For questions about these Terms:
-- **Email:** releaf.support@gmail.com
+These Terms, along with our Privacy Policy, constitute the entire agreement between you and Fovabera regarding the use of the App and supersede all prior agreements.
 
-## 16. Acknowledgment
+## 21. Changes to These Terms
 
-By using Fovabera, you acknowledge that you have read, understood, and agreed to these Terms of Service and our Privacy Policy.
+We may update these Terms from time to time. When we do:
+
+- We will post the updated Terms in the app and, where available, on our website
+- We will update the "Last Updated" date at the top
+- For significant changes, we will notify you via email or in-app notification
+- Continued use of Fovabera after changes means you accept the updated Terms
+
+## 22. Contact
+
+For questions, concerns, or feedback regarding these Terms, please contact us:
+
+**Operator:** Göker Atasever ("Atasever Software"), Türkiye
+**Email:** ataseversoftware@gmail.com
+**Response Time:** Within 30 days
+
+---
+
+*By using Fovabera, you acknowledge that you have read, understood, and agreed to these Terms of Service.*
+
+**Fovabera — Your Honest Companion on the Quit-Smoking Journey 🌱**
