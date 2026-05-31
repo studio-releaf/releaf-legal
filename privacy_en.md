@@ -36,6 +36,7 @@ When you create an account and use Fovabera, we collect:
 - **Device Information:** Operating system (iOS/Android), device timezone, app version
 - **Crash Reports:** When the app crashes, we collect device information, OS version, and the cause of the crash to fix bugs (via Firebase Crashlytics)
 - **Authentication Tokens:** Session tokens to keep you logged in
+- **Usage & Analytics Data:** App usage events, screens viewed, and device identifiers, collected via Firebase Analytics to understand how the app is used and to improve it
 
 ### 4.3 Information from Third-Party Services
 
@@ -94,6 +95,7 @@ Fovabera uses the following third-party services that may process your data:
 | **Firebase Authentication** (Google) | Account creation and login | https://firebase.google.com/support/privacy |
 | **Cloud Firestore** (Google) | Storing your app data | https://firebase.google.com/support/privacy |
 | **Firebase Crashlytics** (Google) | Crash reporting | https://firebase.google.com/support/privacy |
+| **Firebase Analytics** (Google) | App usage analytics | https://firebase.google.com/support/privacy |
 | **Google Sign-In** (Google) | Sign in with Google option | https://policies.google.com/privacy |
 | **RevenueCat** | Purchase management | https://www.revenuecat.com/privacy |
 | **Apple App Store** | iOS purchases | https://www.apple.com/legal/privacy/ |
@@ -187,7 +189,7 @@ Notifications are scheduled and sent **locally on your device** — they do not 
 
 ## 16. Cookies and Tracking
 
-Fovabera is a mobile application and does **not use cookies**. We do not use third-party advertising trackers or analytics for marketing purposes.
+Fovabera is a mobile application and does **not use cookies**. We do **not** use advertising trackers and do **not** use your data for advertising or sell it to third parties. We use **Firebase Analytics** to measure app usage and improve the service; this analytics data is used only for product analytics, never for advertising.
 
 ## 17. Changes to This Privacy Policy
 
