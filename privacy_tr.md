@@ -172,6 +172,17 @@ Alternatif olarak, **ataseversoftware@gmail.com** adresine "Hesap Silme Talebi" 
 
 Silindikten sonra, tüm kişisel verileriniz aktif sistemlerimizden 30 gün içinde kaldırılacaktır.
 
+### 12.1 Verilerinizi Sıfırlama (Hesabınızı Silmeden)
+
+Hesabınızı silmeden, yalnızca uygulama içindeki ilerleme verilerinizi (sigara/bırakma geçmişi, nüks kayıtları, kazanılan ödüller ve istatistikler) temizlemek isterseniz:
+
+1. Fovabera'yı açın
+2. Profil → Sıfırla'ya gidin
+3. "Sıfırla" butonuna basın
+4. Onaylayın
+
+Sıfırlama işlemi, hesabınızı ve giriş bilgilerinizi silmez; yalnızca ilerleme verilerinizi temizler. İşlem geri alınamaz.
+
 ## 13. Veri Güvenliği
 
 Verilerinizi korumak için makul teknik ve organizasyonel önlemler alıyoruz:
