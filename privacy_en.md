@@ -1,224 +1,220 @@
-# Privacy Policy
+# Terms of Service
 
 **Effective Date:** April 26, 2026
 **Last Updated:** May 31, 2026
 
-## 1. Introduction
+## 1. Acceptance of Terms
 
-Welcome to **Fovabera** ("we," "our," or "us"). Fovabera is a mobile application designed to help users on their journey to quit smoking. This Privacy Policy explains how we collect, use, store, and protect your personal data when you use our application.
+By downloading, installing, or using **Fovabera** ("the App," "we," "our," or "us"), you ("you," "your," or "User") agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use Fovabera.
 
-By using Fovabera, you agree to the collection and use of information in accordance with this policy.
+## 2. Description of Service
 
-## 2. Who We Are
+Fovabera is a mobile application designed to help users on their journey to quit smoking. The App provides:
 
-Fovabera is operated by **Göker Atasever** (trading as "Atasever Software"), based in Türkiye, who acts as the **data controller** responsible for your personal data. For all privacy-related inquiries, you can reach us at:
+- Personal tracking of quit-smoking progress
+- Statistics on cigarettes avoided, money saved, and health benefits
+- Motivational notifications
+- Goal-setting and reward features
+- Community statistics (anonymous)
 
-**Data Controller:** Göker Atasever ("Atasever Software")
-**Email:** ataseversoftware@gmail.com
+## 3. Eligibility
 
-## 3. Age Restriction
+You must be **at least 18 years old** to use Fovabera. By using the App, you represent and warrant that:
 
-Fovabera is intended for users **18 years of age or older**. We do not knowingly collect personal information from individuals under 18. If you are under 18, please do not use Fovabera.
+- You are at least 18 years of age
+- You have the legal capacity to enter into a binding agreement
+- You will use the App in compliance with these Terms and applicable laws
 
-## 4. Information We Collect
+## 4. Medical Disclaimer
 
-### 4.1 Information You Provide Directly
+⚠️ **IMPORTANT:** Fovabera is **not a medical device** and does not provide medical advice, diagnosis, or treatment.
 
-When you create an account and use Fovabera, we collect:
+- Fovabera is a **motivational and tracking tool only**
+- The App is **not a substitute for professional medical advice**
+- Always consult a qualified healthcare provider for medical advice related to smoking cessation
+- If you experience severe withdrawal symptoms, depression, suicidal thoughts, or any medical emergency, **seek immediate professional help**
 
-- **Account Information:** Email address, name, and (if signing in with Google) profile photo
-- **Smoking Habits Data:** Quit date, daily cigarette consumption, cigarettes per pack, price per pack
-- **Personal Goals:** Reasons for quitting, wishlist rewards (items you want to purchase with saved money), savings targets
-- **Usage History:** Slip-up records (when you smoke after quitting), optional notes about slip-ups
+The information and statistics provided by Fovabera (such as "life regained" or "health improvements") are based on general scientific research and **may not apply to your individual circumstances**.
 
-### 4.2 Information Collected Automatically
+## 5. Account Registration
 
-- **Device Information:** Operating system (iOS/Android), device timezone, app version
-- **Crash Reports:** When the app crashes, we collect device information, OS version, and the cause of the crash to fix bugs (via Firebase Crashlytics)
-- **Authentication Tokens:** Session tokens to keep you logged in
+To use Fovabera, you must create an account. You agree to:
 
-### 4.3 Information from Third-Party Services
+- Provide accurate, current, and complete information during registration
+- Maintain the security of your password and account
+- Notify us immediately of any unauthorized access to your account
+- Be responsible for all activities under your account
+- **Not** create accounts on behalf of others or share your account credentials
 
-If you sign in with Google, we receive:
-- Email address
-- Display name
-- Profile picture URL
-- Google Account ID
+## 6. Premium Features and Payments
 
-### 4.4 Purchase Information
+### 6.1 Free Use and Premium Features
 
-If you purchase premium access:
-- Anonymous purchase identifier (managed by RevenueCat)
-- Purchase history
-- We **do not** see or store your credit card details — these are processed entirely by Apple App Store or Google Play Store
+Fovabera is free to use. For the first 7 days, all features are available to everyone. After this 7-day period, the following features require a one-time premium purchase:
 
-## 5. Special Category Data (Health Information)
+- Body Map (detailed health recovery visualization)
+- Reward cards (setting and claiming personal rewards with the money saved from not smoking)
 
-Smoking habits and quit-smoking journey data may be considered **health-related information** under GDPR (Article 9) and similar regulations. We process this data based on your **explicit consent** when you sign up.
+All other features of the App remain free.
 
-This data is used **exclusively** to provide you with personalized quit-smoking support and is **never** shared with third parties for marketing or research purposes without your additional explicit consent.
+### 6.2 One-Time Purchase
 
-## 6. How We Use Your Information
+The premium purchase is a **one-time payment** that grants permanent, unlimited access to the premium features. There are **no recurring subscriptions and no automatic renewals** — you are not charged again.
 
-We use your information to:
+### 6.3 Payment Processing
 
-- ✅ Provide and maintain the Fovabera service
-- ✅ Calculate personalized statistics (cigarettes avoided, money saved, life regained)
-- ✅ Send you motivational notifications at scheduled times
-- ✅ Sync your data across devices
-- ✅ Process premium purchases
-- ✅ Diagnose and fix technical issues (via crash reports)
-- ✅ Communicate with you about service updates or support requests
-- ✅ Display anonymous community statistics (e.g., total registered users)
+- All payments are processed by **Apple App Store** (iOS) or **Google Play Store** (Android)
+- We do **not** store or process your payment information
+- Prices are shown in the App at the time of purchase and vary by country and region
 
-We **never**:
-- ❌ Sell your personal data to third parties
-- ❌ Use your data for advertising purposes
-- ❌ Share your individual smoking history with anyone
+### 6.4 Refunds
 
-## 7. Legal Basis for Processing (GDPR)
+Refund policies are governed by the platform you used to purchase (Apple App Store or Google Play Store). We do not directly process refunds. Premium is non-refundable after purchase except where required by law.
 
-If you are in the European Economic Area, our legal basis for processing your data is:
+## 7. User Conduct
 
-- **Consent:** For health-related smoking data and notifications
-- **Contract:** To provide the service you signed up for
-- **Legitimate Interest:** For crash reporting, security, and service improvement
-- **Legal Obligation:** When required by applicable law
+When using Fovabera, you agree NOT to:
 
-## 8. Third-Party Services
+- ❌ Use the App for any illegal purpose
+- ❌ Attempt to gain unauthorized access to other users' accounts or our systems
+- ❌ Reverse engineer, decompile, or disassemble the App
+- ❌ Use automated systems (bots, scrapers) to access the App
+- ❌ Interfere with the proper functioning of the App
+- ❌ Upload or transmit harmful code, viruses, or malware
+- ❌ Impersonate another person or entity
+- ❌ Violate any applicable laws or regulations
+- ❌ Use the App to harass, abuse, or harm others
 
-Fovabera uses the following third-party services that may process your data:
+## 8. Intellectual Property
 
-| Service | Purpose | Privacy Policy |
-|---|---|---|
-| **Firebase Authentication** (Google) | Account creation and login | https://firebase.google.com/support/privacy |
-| **Cloud Firestore** (Google) | Storing your app data | https://firebase.google.com/support/privacy |
-| **Firebase Crashlytics** (Google) | Crash reporting | https://firebase.google.com/support/privacy |
-| **Google Sign-In** (Google) | Sign in with Google option | https://policies.google.com/privacy |
-| **RevenueCat** | Purchase management | https://www.revenuecat.com/privacy |
-| **Apple App Store** | iOS purchases | https://www.apple.com/legal/privacy/ |
-| **Google Play Store** | Android purchases | https://policies.google.com/privacy |
+### 8.1 Our Rights
 
-These services have their own privacy policies. We encourage you to review them.
+Fovabera and all its content, features, design, code, logos, and trademarks are the exclusive property of Fovabera and are protected by international copyright, trademark, and other intellectual property laws.
 
-## 9. Data Storage and International Transfers
+### 8.2 Limited License
 
-Your data is stored on **Google Cloud servers** operated by Firebase, which may be located in the **United States, Europe, or other regions**. By using Fovabera, you consent to the transfer of your data to these locations.
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes, subject to these Terms.
 
-We rely on Google's **Standard Contractual Clauses** and other appropriate safeguards for international data transfers in compliance with GDPR.
+### 8.3 Your Content
 
-## 10. Data Retention
+You retain ownership of any data you input into Fovabera (such as quit dates, slip-up notes, wishlist items). By using the App, you grant us a license to use, store, and process this data **solely** to provide the service to you.
 
-- **Active Account:** Your data is retained as long as your account is active
-- **Account Deletion:** When you delete your account, all personal data is deleted within **30 days** from our active systems
-- **Backups:** Backup data is automatically purged within **90 days**
-- **Crash Reports:** Anonymized crash logs may be retained for up to **90 days** for debugging purposes
+## 9. Privacy
 
-## 11. Your Rights
+Your use of Fovabera is also governed by our **Privacy Policy**, which is incorporated into these Terms by reference. Please review the Privacy Policy at: https://studio-releaf.github.io/releaf-legal/?doc=privacy&lang=en
 
-Depending on your location, you may have the following rights:
+## 10. Notifications
 
-### Under GDPR (European Union)
-- **Right to Access:** Request a copy of your data
-- **Right to Rectification:** Correct inaccurate data
-- **Right to Erasure ("Right to be Forgotten"):** Delete your data
-- **Right to Restrict Processing:** Limit how we use your data
-- **Right to Data Portability:** Receive your data in a portable format
-- **Right to Object:** Object to certain types of processing
-- **Right to Withdraw Consent:** At any time
-- **Right to Lodge a Complaint:** You have the right to lodge a complaint with your local data protection supervisory authority if you believe our processing of your data infringes the GDPR
-
-### Under CCPA (California)
-- Right to know what personal information is collected
-- Right to delete personal information
-- Right to opt-out of sale (we do not sell data)
-- Right to non-discrimination
-
-### Under KVKK (Turkey)
-- Right to learn whether your data is processed
-- Right to request information about processing
-- Right to learn the purpose of processing
-- Right to know third parties to whom data is transferred
-- Right to request correction or deletion
-- Right to object to processing leading to negative consequences
-
-To exercise any of these rights, contact us at **ataseversoftware@gmail.com**. We will respond within **30 days**.
-
-## 12. Account Deletion
-
-You can delete your account at any time:
-
-1. Open Fovabera
-2. Go to Profile → Settings
-3. Tap "Delete Account"
-4. Confirm
-
-Alternatively, email us at **ataseversoftware@gmail.com** with the subject "Account Deletion Request."
-
-Upon deletion, all your personal data will be removed from our active systems within 30 days.
-
-## 13. Data Security
-
-We implement reasonable technical and organizational measures to protect your data:
-
-- 🔐 All data transmitted via **HTTPS/TLS encryption**
-- 🔐 Firebase security rules restrict data access to authenticated users only
-- 🔐 You can only access your own data, not other users'
-- 🔐 Passwords are hashed and never stored in plain text (handled by Firebase)
-- 🔐 Regular security audits via Firebase's built-in security tools
-
-However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security.
-
-## 14. Children's Privacy
-
-Fovabera is **not directed to children under 18**. We do not knowingly collect personal information from children. If we discover that a child under 18 has provided us with personal information, we will delete it immediately.
-
-If you believe a child has provided us with information, please contact us at **ataseversoftware@gmail.com**.
-
-## 15. Notifications
-
-Fovabera sends local push notifications to support your quit-smoking journey:
+By using Fovabera, you consent to receive **local push notifications** related to:
 
 - Daily motivational reminders
-- Milestone celebrations (1 day, 1 week, 1 month, etc.)
+- Milestone celebrations
 - Health benefit updates
+- Important service announcements
 
-Notifications are scheduled and sent **locally on your device** — they do not require sending data to our servers. You can disable notifications at any time through your device settings.
+You can disable notifications at any time through your device settings.
 
-## 16. Cookies and Tracking
+## 11. Service Availability
 
-Fovabera is a mobile application and does **not use cookies**. We do not use third-party advertising trackers or analytics for marketing purposes.
+- We strive to maintain Fovabera's availability 24/7 but do **not guarantee** uninterrupted service
+- We may temporarily suspend service for maintenance, updates, or unforeseen issues
+- We are not liable for any inconvenience caused by service interruptions
 
-## 17. Changes to This Privacy Policy
+## 12. Updates and Changes
 
-We may update this Privacy Policy from time to time. When we do:
+We may update Fovabera to add features, fix bugs, or improve performance. By using the App, you agree to:
 
-- We will post the updated policy in the app and, where available, on our website
+- Receive automatic updates (when enabled on your device)
+- Acknowledge that some features may change or be removed
+- Continue using the App at your own discretion after updates
+
+## 13. Termination
+
+### 13.1 By You
+
+You may stop using Fovabera at any time by deleting your account through the App or by contacting us at **ataseversoftware@gmail.com**.
+
+### 13.2 By Us
+
+We reserve the right to suspend or terminate your account if you:
+
+- Violate these Terms
+- Engage in fraudulent or harmful activity
+- Use the App in a way that risks harm to other users or our systems
+
+## 14. Disclaimers
+
+### 14.1 "As Is" Service
+
+Fovabera is provided **"AS IS" and "AS AVAILABLE"** without warranties of any kind, either express or implied, including but not limited to:
+
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Accuracy or reliability of information
+
+### 14.2 Health and Safety
+
+We make **no warranties** that Fovabera will help you successfully quit smoking. Quitting smoking is a personal journey that depends on many factors beyond the App's control.
+
+## 15. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+- We are **not liable** for any indirect, incidental, special, consequential, or punitive damages
+- Our total liability for any claim arising from these Terms or your use of Fovabera shall not exceed the amount you paid us (if any) in the 12 months preceding the claim
+- Some jurisdictions do not allow these limitations, so they may not apply to you
+
+## 16. Indemnification
+
+You agree to indemnify and hold harmless Fovabera, its operators, and affiliates from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+
+- Your use of Fovabera
+- Your violation of these Terms
+- Your violation of any rights of another party
+- Your violation of any applicable law
+
+## 17. Governing Law and Jurisdiction
+
+These Terms are governed by the laws of the **Republic of Türkiye**, without regard to conflict of law principles.
+
+Any disputes arising from these Terms or your use of Fovabera shall be resolved in the courts of **Eskişehir, Türkiye**, unless required otherwise by mandatory consumer protection laws of your country of residence.
+
+## 18. International Use
+
+Fovabera is accessible globally. By using the App from outside Türkiye:
+
+- You agree to comply with all applicable local laws
+- You acknowledge that data may be transferred to and stored in countries other than your own
+- You are responsible for ensuring your use complies with your local regulations
+
+## 19. Severability
+
+If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+## 20. Entire Agreement
+
+These Terms, along with our Privacy Policy, constitute the entire agreement between you and Fovabera regarding the use of the App and supersede all prior agreements.
+
+## 21. Changes to These Terms
+
+We may update these Terms from time to time. When we do:
+
+- We will post the updated Terms in the app and, where available, on our website
 - We will update the "Last Updated" date at the top
 - For significant changes, we will notify you via email or in-app notification
-- Continued use of Fovabera after changes means you accept the updated policy
+- Continued use of Fovabera after changes means you accept the updated Terms
 
-## 18. Compliance
+## 22. Contact
 
-This Privacy Policy is designed to comply with:
+For questions, concerns, or feedback regarding these Terms, please contact us:
 
-- **GDPR** (General Data Protection Regulation, EU)
-- **CCPA** (California Consumer Privacy Act, USA)
-- **KVKK** (Kişisel Verilerin Korunması Kanunu, Turkey)
-- **PIPEDA** (Canada)
-- **LGPD** (Brazil)
-- **App Store Review Guidelines** (Apple)
-- **Google Play Developer Program Policies** (Google)
-
-## 19. Contact Us
-
-If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
-
+**Operator:** Göker Atasever ("Atasever Software"), Türkiye
 **Email:** ataseversoftware@gmail.com
 **Response Time:** Within 30 days
 
 ---
 
-*By using Fovabera, you acknowledge that you have read, understood, and agreed to this Privacy Policy.*
+*By using Fovabera, you acknowledge that you have read, understood, and agreed to these Terms of Service.*
 
 **Fovabera — Your Honest Companion on the Quit-Smoking Journey 🌱**
