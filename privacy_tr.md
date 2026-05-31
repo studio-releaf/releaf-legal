@@ -36,6 +36,7 @@ Hesap oluşturduğunuzda ve Fovabera'yı kullandığınızda topladığımız bi
 - **Cihaz Bilgileri:** İşletim sistemi (iOS/Android), cihaz saat dilimi, uygulama sürümü
 - **Çökme Raporları:** Uygulama çöktüğünde, hataları düzeltmek için cihaz bilgileri, OS sürümü ve çökmenin nedeni toplanır (Firebase Crashlytics aracılığıyla)
 - **Kimlik Doğrulama Token'ları:** Sizi giriş yapmış tutan oturum token'ları
+- **Kullanım ve Analitik Verileri:** Uygulama kullanım olayları, görüntülenen ekranlar ve cihaz tanımlayıcıları; uygulamanın nasıl kullanıldığını anlamak ve geliştirmek için Firebase Analytics aracılığıyla toplanır
 
 ### 4.3 Üçüncü Taraf Hizmetlerden Alınan Bilgiler
 
@@ -94,6 +95,7 @@ Fovabera, verilerinizi işleyebilecek aşağıdaki üçüncü taraf hizmetleri k
 | **Firebase Authentication** (Google) | Hesap oluşturma ve giriş | https://firebase.google.com/support/privacy |
 | **Cloud Firestore** (Google) | Uygulama verilerinizin saklanması | https://firebase.google.com/support/privacy |
 | **Firebase Crashlytics** (Google) | Çökme raporlama | https://firebase.google.com/support/privacy |
+| **Firebase Analytics** (Google) | Uygulama kullanım analitiği | https://firebase.google.com/support/privacy |
 | **Google Sign-In** (Google) | Google ile giriş seçeneği | https://policies.google.com/privacy |
 | **RevenueCat** | Satın alma yönetimi | https://www.revenuecat.com/privacy |
 | **Apple App Store** | iOS satın alımları | https://www.apple.com/legal/privacy/ |
@@ -200,7 +202,7 @@ Bildirimler **cihazınızda yerel olarak** planlanır ve gönderilir — sunucul
 
 ## 16. Çerezler ve Takip
 
-Fovabera bir mobil uygulamadır ve **çerez kullanmaz**. Pazarlama amacıyla üçüncü taraf reklam izleyicileri veya analitik kullanmıyoruz.
+Fovabera bir mobil uygulamadır ve **çerez kullanmaz**. Reklam izleyicileri kullanmıyor, verilerinizi reklam amacıyla kullanmıyor veya satmıyoruz. Uygulama kullanımını ölçmek ve hizmeti geliştirmek için **Firebase Analytics** kullanıyoruz; bu analitik verileri yalnızca ürün analitiği için kullanılır, asla reklam için değil.
 
 ## 17. Bu Gizlilik Politikasındaki Değişiklikler
 
