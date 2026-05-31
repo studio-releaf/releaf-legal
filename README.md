@@ -18,18 +18,20 @@ This repository hosts the official legal documents for **Fovabera**, a mobile ap
 Documents are hosted via **GitHub Pages** and accessible at:
 
 ```
-https://[USERNAME].github.io/releaf-legal/
+https://studio-releaf.github.io/releaf-legal/
 ```
 
 You can also link directly with parameters:
+
 - `?doc=privacy&lang=en` — Privacy Policy (English)
 - `?doc=privacy&lang=tr` — Privacy Policy (Türkçe)
 - `?doc=terms&lang=en` — Terms of Service (English)
-- `?doc=terms&lang=tr` — Kullanım Koşulları (Türkçe)
+- `?doc=terms&lang=tr` — Kullanım Şartları (Türkçe)
 
 ## 📬 Contact
 
-- **Email:** releaf.support@gmail.com
+- **Operator / Data Controller:** Göker Atasever ("Atasever Software")
+- **Email:** ataseversoftware@gmail.com
 - **Jurisdiction:** Eskişehir, Türkiye
 
 ---
