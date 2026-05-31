@@ -159,6 +159,17 @@ Alternatively, email us at **ataseversoftware@gmail.com** with the subject "Acco
 
 Upon deletion, all your personal data will be removed from our active systems within 30 days.
 
+### 12.1 Resetting Your Data (Without Deleting Your Account)
+
+If you wish to clear only your in-app progress data (smoking/quit history, relapse records, earned rewards, and statistics) without deleting your account:
+
+1. Open Fovabera
+2. Go to Profile → Reset
+3. Tap "Reset"
+4. Confirm
+
+Resetting does not delete your account or login credentials; it only clears your progress data. This action cannot be undone.
+
 ## 13. Data Security
 
 We implement reasonable technical and organizational measures to protect your data:
