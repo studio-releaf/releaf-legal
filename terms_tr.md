@@ -1,205 +1,219 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fovabera — Kullanım Koşulları</title>
-<style>
-  * { box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.7; color: #1a1a2e; max-width: 820px;
-    margin: 0 auto; padding: 32px 20px; background: #ffffff;
-  }
-  h1 { color: #16a34a; font-size: 1.9rem; border-bottom: 3px solid #16a34a; padding-bottom: 10px; margin-top: 0; }
-  h2 { color: #15803d; font-size: 1.35rem; margin-top: 2rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 6px; }
-  h3 { color: #166534; font-size: 1.1rem; margin-top: 1.5rem; }
-  a { color: #16a34a; word-break: break-word; }
-  table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.92rem; }
-  th, td { border: 1px solid #d1d5db; padding: 8px 10px; text-align: left; vertical-align: top; }
-  th { background: #f0fdf4; }
-  code { background: #f3f4f6; padding: 2px 5px; border-radius: 4px; font-size: 0.9em; }
-  ul, ol { padding-left: 1.4rem; }
-  li { margin: 4px 0; }
-  hr { border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0; }
-  .lang-switch { margin-bottom: 24px; padding: 12px 0; border-bottom: 1px solid #e5e7eb; }
-  .lang-switch a { margin-right: 16px; font-weight: 600; text-decoration: none; }
-  .footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; color: #6b7280; font-size: 0.85rem; }
-</style>
-</head>
-<body>
-<div class="lang-switch">
-  <a href="terms-en.html">English</a>
-  <a href="terms-tr.html">Türkçe</a>
-  &nbsp;|&nbsp;
-  <a href="privacy-en.html">Privacy (EN)</a>
-  <a href="privacy-tr.html">Gizlilik (TR)</a>
-</div>
-<h1>Kullanım Şartları</h1>
-<p><strong>Yürürlük Tarihi:</strong> 26 Nisan 2026<br />
-<strong>Son Güncelleme:</strong> 31 Mayıs 2026</p>
-<h2>1. Şartların Kabulü</h2>
-<p><strong>Fovabera</strong>'yı ("Uygulama", "biz") indirerek, kurarak veya kullanarak, siz ("siz", "Kullanıcı") bu Kullanım Şartlarına ("Şartlar") bağlı kalmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, Fovabera'yı kullanmayın.</p>
-<h2>2. Hizmetin Tanımı</h2>
-<p>Fovabera, kullanıcılarına sigarayı bırakma yolculuklarında yardımcı olmak için tasarlanmış bir mobil uygulamadır. Uygulama şunları sağlar:</p>
-<ul>
-<li>Sigara bırakma ilerlemenizin kişisel takibi</li>
-<li>İçilmeyen sigara, biriken para ve sağlık faydaları istatistikleri</li>
-<li>Motivasyon bildirimleri</li>
-<li>Hedef belirleme ve ödül özellikleri</li>
-<li>Topluluk istatistikleri (anonim)</li>
-</ul>
-<h2>3. Yaş ve Uygunluk</h2>
-<p>Fovabera'yı kullanmak için en az <strong>18 yaşında</strong> olmalısınız. Uygulamayı kullanarak şunları beyan ve garanti edersiniz:</p>
-<ul>
-<li>En az 18 yaşındasınız</li>
-<li>Bağlayıcı bir sözleşme yapma yasal kapasitesine sahipsiniz</li>
-<li>Uygulamayı bu Şartlar ve geçerli yasalara uygun olarak kullanacaksınız</li>
-</ul>
-<h2>4. Tıbbi Sorumluluk Reddi</h2>
-<p>⚠️ <strong>ÖNEMLİ:</strong> Fovabera bir <strong>tıbbi cihaz değildir</strong> ve tıbbi tavsiye, teşhis veya tedavi sağlamaz.</p>
-<ul>
-<li>Fovabera <strong>yalnızca bir motivasyon ve takip aracıdır</strong></li>
-<li>Uygulama <strong>profesyonel tıbbi tavsiyenin yerine geçmez</strong></li>
-<li>Sigarayı bırakma ile ilgili tıbbi tavsiye için her zaman nitelikli bir sağlık uzmanına danışın</li>
-<li>Şiddetli yoksunluk belirtileri, depresyon, intihar düşünceleri veya herhangi bir tıbbi acil durum yaşıyorsanız, <strong>derhal profesyonel yardım alın</strong></li>
-</ul>
-<p>Fovabera tarafından sağlanan bilgiler ve istatistikler (örn. "kazanılan ömür" veya "sağlık iyileştirmeleri") genel bilimsel araştırmalara dayanır ve <strong>bireysel koşullarınıza uygulanmayabilir</strong>.</p>
-<h2>5. Hesap Kaydı</h2>
-<p>Fovabera'yı kullanmak için bir hesap oluşturmalısınız. Şunları kabul edersiniz:</p>
-<ul>
-<li>Kayıt sırasında doğru, güncel ve eksiksiz bilgi vereceksiniz</li>
-<li>Şifrenizin ve hesabınızın güvenliğini sağlayacaksınız</li>
-<li>Hesabınıza yetkisiz erişim olduğunu derhal bize bildireceksiniz</li>
-<li>Hesabınız altındaki tüm faaliyetlerden sorumlu olacaksınız</li>
-<li>Başkaları adına hesap <strong>oluşturmayacak</strong> veya hesap bilgilerinizi paylaşmayacaksınız</li>
-</ul>
-<h2>6. Premium Özellikler ve Ödemeler</h2>
-<h3>6.1 Ücretsiz Kullanım ve Premium Özellikler</h3>
-<p>Fovabera'nın kullanımı ücretsizdir. İlk 7 gün boyunca tüm özellikler herkese açıktır. Bu 7 günlük sürenin sonunda aşağıdaki özellikler tek seferlik premium satın alma gerektirir:</p>
-<ul>
-<li>Vücut Haritası (ayrıntılı sağlık iyileşme görselleştirmesi)</li>
-<li>Ödül kartları (sigara içmeyerek biriktirdiğiniz parayla kendinize ödüller belirleme ve alma)</li>
-</ul>
-<p>Uygulamanın diğer tüm özellikleri ücretsiz kalır.</p>
-<h3>6.2 Tek Seferlik Satın Alma</h3>
-<p>Premium satın alma, premium özelliklere kalıcı ve sınırsız erişim sağlayan <strong>tek seferlik bir ödemedir</strong>. <strong>Otomatik yenilenen abonelik veya tekrarlayan ücret yoktur</strong> — tekrar ücretlendirilmezsiniz.</p>
-<h3>6.3 Ödeme İşleme</h3>
-<ul>
-<li>Tüm ödemeler <strong>Apple App Store</strong> (iOS) veya <strong>Google Play Store</strong> (Android) tarafından işlenir</li>
-<li>Ödeme bilgilerinizi <strong>saklamıyoruz veya işlemiyoruz</strong></li>
-<li>Fiyatlar satın alma sırasında uygulamada gösterilir ve ülkeye/bölgeye göre değişir</li>
-</ul>
-<h3>6.4 Geri Ödemeler</h3>
-<p>Geri ödeme politikaları, satın alma işlemini gerçekleştirdiğiniz platform (Apple App Store veya Google Play Store) tarafından yönetilir. Doğrudan geri ödeme işlemi yapmıyoruz. Premium, kanunen gereken haller dışında satın alma sonrası iade edilemez.</p>
-<h2>7. Kullanıcı Davranışı</h2>
-<p>Fovabera'yı kullanırken şunları YAPMAYACAĞINIZI kabul edersiniz:</p>
-<ul>
-<li>❌ Uygulamayı yasa dışı amaçlar için kullanmak</li>
-<li>❌ Diğer kullanıcıların hesaplarına veya sistemlerimize yetkisiz erişim sağlamaya çalışmak</li>
-<li>❌ Uygulamayı tersine mühendislik yapmak, derlemek veya parçalamak</li>
-<li>❌ Uygulamaya erişmek için otomatik sistemler (botlar, scraper'lar) kullanmak</li>
-<li>❌ Uygulamanın düzgün çalışmasına müdahale etmek</li>
-<li>❌ Zararlı kod, virüs veya kötü amaçlı yazılım yüklemek veya iletmek</li>
-<li>❌ Başka bir kişi veya kuruluşu taklit etmek</li>
-<li>❌ Geçerli yasaları veya yönetmelikleri ihlal etmek</li>
-<li>❌ Uygulamayı başkalarını taciz etmek, kötüye kullanmak veya zarar vermek için kullanmak</li>
-</ul>
-<h2>8. Fikri Mülkiyet</h2>
-<h3>8.1 Bizim Haklarımız</h3>
-<p>Fovabera ve tüm içeriği, özellikleri, tasarımı, kodu, logoları ve ticari markaları Fovabera'nın özel mülkiyetidir ve uluslararası telif hakkı, ticari marka ve diğer fikri mülkiyet yasalarıyla korunmaktadır.</p>
-<h3>8.2 Sınırlı Lisans</h3>
-<p>Bu Şartlara tabi olarak, Uygulamayı kişisel, ticari olmayan amaçlarla kullanmanız için sınırlı, münhasır olmayan, devredilemez, iptal edilebilir bir lisans veriyoruz.</p>
-<h3>8.3 İçeriğiniz</h3>
-<p>Fovabera'ya girdiğiniz herhangi bir verinin (bırakma tarihleri, nüks notları, ödül listesi öğeleri gibi) sahipliğini elinizde tutarsınız. Uygulamayı kullanarak, bu verileri <strong>yalnızca</strong> size hizmet sağlamak için kullanma, saklama ve işleme lisansı vermiş olursunuz.</p>
-<h2>9. Gizlilik</h2>
-<p>Fovabera'yı kullanımınız ayrıca <strong>Gizlilik Politikamız</strong> tarafından da yönetilir; bu politika, referans yoluyla bu Şartlara dahil edilmiştir. Lütfen Gizlilik Politikamızı şu adresten inceleyin: https://studio-releaf.github.io/releaf-legal/?doc=privacy&amp;lang=tr</p>
-<h2>10. Bildirimler</h2>
-<p>Fovabera'yı kullanarak, aşağıdakilerle ilgili <strong>yerel push bildirimleri</strong> almayı kabul edersiniz:</p>
-<ul>
-<li>Günlük motivasyon hatırlatmaları</li>
-<li>Kilometre taşı kutlamaları</li>
-<li>Sağlık fayda güncellemeleri</li>
-<li>Önemli hizmet duyuruları</li>
-</ul>
-<p>Cihaz ayarlarınızdan bildirimleri istediğiniz zaman devre dışı bırakabilirsiniz.</p>
-<h2>11. Hizmet Erişilebilirliği</h2>
-<ul>
-<li>Fovabera'nın 7/24 erişilebilirliğini sürdürmek için çabalıyoruz ancak kesintisiz hizmet <strong>garanti etmiyoruz</strong></li>
-<li>Bakım, güncellemeler veya öngörülemeyen sorunlar için hizmeti geçici olarak durdurabiliriz</li>
-<li>Hizmet kesintilerinden kaynaklanan rahatsızlıklardan sorumlu değiliz</li>
-</ul>
-<h2>12. Güncellemeler ve Değişiklikler</h2>
-<p>Özellik eklemek, hataları düzeltmek veya performansı iyileştirmek için Fovabera'yı güncelleyebiliriz. Uygulamayı kullanarak şunları kabul edersiniz:</p>
-<ul>
-<li>Otomatik güncellemeleri almayı (cihazınızda etkinleştirildiğinde)</li>
-<li>Bazı özelliklerin değişebileceğini veya kaldırılabileceğini onaylamayı</li>
-<li>Güncellemelerden sonra Uygulamayı kendi takdirinize göre kullanmaya devam etmeyi</li>
-</ul>
-<h2>13. Sona Erdirme</h2>
-<h3>13.1 Sizin Tarafınızdan</h3>
-<p>Fovabera'yı istediğiniz zaman Uygulama üzerinden hesabınızı silerek veya <strong>ataseversoftware@gmail.com</strong> adresinden bize ulaşarak kullanmayı durdurabilirsiniz.</p>
-<h3>13.2 Bizim Tarafımızdan</h3>
-<p>Aşağıdaki durumlarda hesabınızı askıya alma veya sona erdirme hakkımızı saklı tutarız:</p>
-<ul>
-<li>Bu Şartları ihlal etmeniz</li>
-<li>Sahtekarlık veya zararlı faaliyetlerde bulunmanız</li>
-<li>Diğer kullanıcılara veya sistemlerimize zarar verme riski oluşturan bir şekilde Uygulamayı kullanmanız</li>
-</ul>
-<h2>14. Sorumluluk Reddi</h2>
-<h3>14.1 "Olduğu Gibi" Hizmet</h3>
-<p>Fovabera, açık veya zımni hiçbir garanti olmaksızın <strong>"OLDUĞU GİBİ" ve "MEVCUT OLDUĞU GİBİ"</strong> sağlanır:</p>
-<ul>
-<li>Ticari elverişlilik</li>
-<li>Belirli bir amaca uygunluk</li>
-<li>İhlal etmeme</li>
-<li>Bilgilerin doğruluğu veya güvenilirliği</li>
-</ul>
-<h3>14.2 Sağlık ve Güvenlik</h3>
-<p>Fovabera'nın sigarayı başarıyla bırakmanıza yardımcı olacağına dair <strong>hiçbir garanti vermiyoruz</strong>. Sigarayı bırakmak, Uygulamanın kontrolü dışındaki birçok faktöre bağlı olan kişisel bir yolculuktur.</p>
-<h2>15. Sorumluluk Sınırlaması</h2>
-<p>Yasanın izin verdiği azami ölçüde:</p>
-<ul>
-<li>Dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zararlardan <strong>sorumlu değiliz</strong></li>
-<li>Bu Şartlardan veya Fovabera'yı kullanmanızdan doğan herhangi bir talep için toplam sorumluluğumuz, talepten önceki 12 ay içinde bize ödediğiniz miktarı (varsa) aşmayacaktır</li>
-<li>Bazı yargı bölgeleri bu sınırlamalara izin vermez, bu nedenle size uygulanmayabilir</li>
-</ul>
-<h2>16. Tazminat</h2>
-<p>Aşağıdakilerden kaynaklanan herhangi bir talep, zarar, kayıp, sorumluluk ve gider (avukatlık ücretleri dahil) için Fovabera'yı, operatörlerini ve bağlı kuruluşlarını tazmin etmeyi ve zararsız tutmayı kabul edersiniz:</p>
-<ul>
-<li>Fovabera'yı kullanımınız</li>
-<li>Bu Şartları ihlaliniz</li>
-<li>Başka bir tarafın haklarını ihlaliniz</li>
-<li>Geçerli herhangi bir yasayı ihlaliniz</li>
-</ul>
-<h2>17. Geçerli Hukuk ve Yargı</h2>
-<p>Bu Şartlar, hukuk ihtilafları ilkelerine bakılmaksızın <strong>Türkiye Cumhuriyeti</strong> yasalarına tabidir.</p>
-<p>Bu Şartlardan veya Fovabera'yı kullanmanızdan doğan herhangi bir uyuşmazlık, ikamet ettiğiniz ülkenin zorunlu tüketici koruma yasaları aksini gerektirmedikçe, <strong>Eskişehir, Türkiye</strong> mahkemelerinde çözümlenecektir.</p>
-<h2>18. Uluslararası Kullanım</h2>
-<p>Fovabera küresel olarak erişilebilir. Türkiye dışından Uygulamayı kullanarak:</p>
-<ul>
-<li>Geçerli tüm yerel yasalara uymayı kabul edersiniz</li>
-<li>Verilerin kendi ülkeniz dışındaki ülkelere aktarılabileceğini ve saklanabileceğini onaylarsınız</li>
-<li>Kullanımınızın yerel düzenlemelerinize uygun olmasından sorumlusunuzdur</li>
-</ul>
-<h2>19. Bölünebilirlik</h2>
-<p>Bu Şartların herhangi bir hükmünün geçersiz veya uygulanamaz olduğu tespit edilirse, kalan hükümler tam olarak yürürlükte kalmaya devam edecektir.</p>
-<h2>20. Tüm Anlaşma</h2>
-<p>Bu Şartlar, Gizlilik Politikamızla birlikte, sizinle Fovabera arasındaki Uygulamanın kullanımına ilişkin tüm anlaşmayı oluşturur ve önceki tüm anlaşmaların yerine geçer.</p>
-<h2>21. Bu Şartlardaki Değişiklikler</h2>
-<p>Bu Şartları zaman zaman güncelleyebiliriz. Güncelleme yaptığımızda:</p>
-<ul>
-<li>Güncellenmiş Şartları uygulamada ve (varsa) web sitemizde yayınlarız</li>
-<li>Üst kısımdaki "Son Güncelleme" tarihini güncelleriz</li>
-<li>Önemli değişiklikler için sizi e-posta veya uygulama içi bildirim ile bilgilendiririz</li>
-<li>Değişikliklerden sonra Fovabera'yı kullanmaya devam etmeniz, güncellenmiş Şartları kabul ettiğiniz anlamına gelir</li>
-</ul>
-<h2>22. İletişim</h2>
-<p>Bu Şartlar hakkında sorular, endişeler veya geri bildirimler için lütfen bize ulaşın:</p>
-<p><strong>İşletmeci:</strong> Göker Atasever ("Atasever Software"), Türkiye<br />
-<strong>E-posta:</strong> ataseversoftware@gmail.com<br />
-<strong>Yanıt Süresi:</strong> 30 gün içinde</p>
-<hr />
-<p><em>Fovabera'yı kullanarak, bu Kullanım Şartlarını okuduğunuzu, anladığınızı ve kabul ettiğinizi onaylamış olursunuz.</em></p>
-<p><strong>Fovabera — Sigara Bırakma Yolculuğunuzdaki Dürüst Refakatçiniz 🌱</strong></p>
-<div class="footer">© 2026 Fovabera (Atasever Software). ataseversoftware@gmail.com</div>
-</body>
-</html>
+# Kullanım Şartları
+
+**Yürürlük Tarihi:** 26 Nisan 2026
+**Son Güncelleme:** 31 Mayıs 2026
+
+## 1. Şartların Kabulü
+
+**Fovabera**'yı ("Uygulama", "biz") indirerek, kurarak veya kullanarak, siz ("siz", "Kullanıcı") bu Kullanım Şartlarına ("Şartlar") bağlı kalmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, Fovabera'yı kullanmayın.
+
+## 2. Hizmetin Tanımı
+
+Fovabera, kişisel bir alışkanlık takibi ve motivasyon uygulamasıdır. **Tıbbi bir cihaz değildir** ve tıbbi/sağlık hizmeti sunmaz. Uygulama şunları sağlar:
+
+- İlerlemenizin ve dönüm noktalarınızın kişisel takibi
+- Takip edilen gün, atlanan adet ve biriken para gibi istatistikler
+- Motivasyon bildirimleri
+- Hedef belirleme ve ödül özellikleri
+- Topluluk istatistikleri (anonim)
+
+## 3. Yaş ve Uygunluk
+
+Fovabera'yı kullanmak için en az **18 yaşında** olmalısınız. Uygulamayı kullanarak şunları beyan ve garanti edersiniz:
+
+- En az 18 yaşındasınız
+- Bağlayıcı bir sözleşme yapma yasal kapasitesine sahipsiniz
+- Uygulamayı bu Şartlar ve geçerli yasalara uygun olarak kullanacaksınız
+
+## 4. Tıbbi Cihaz Değildir
+
+⚠️ **ÖNEMLİ:** Fovabera kişisel bir alışkanlık takibi ve motivasyon aracıdır. **Tıbbi bir cihaz değildir**; hiçbir hastalığı veya sağlık durumunu teşhis, tedavi veya önlemez ve tıbbi, klinik veya sağlıkla ilgili tavsiye ya da hizmet sunmaz.
+
+- Fovabera **yalnızca bir motivasyon ve takip aracıdır**.
+- Uygulama hiçbir türden **profesyonel tavsiyenin yerine geçmez**.
+- Uygulama hiçbir biyometrik veya tıbbi sağlık verisini ölçmez veya işlemez.
+- Uygulamada gösterilen genel bilgiler ve istatistikler (sayaçlar, dönüm noktaları ve birikim tahminleri gibi) yalnızca motivasyon amaçlıdır ve **bireysel koşullarınıza uygulanmayabilir**.
+- Herhangi bir tıbbi kaygınız için lütfen nitelikli bir uzmana danışın.
+
+## 5. Hesap Kaydı
+
+Fovabera'yı kullanmak için bir hesap oluşturmalısınız. Şunları kabul edersiniz:
+
+- Kayıt sırasında doğru, güncel ve eksiksiz bilgi vereceksiniz
+- Şifrenizin ve hesabınızın güvenliğini sağlayacaksınız
+- Hesabınıza yetkisiz erişim olduğunu derhal bize bildireceksiniz
+- Hesabınız altındaki tüm faaliyetlerden sorumlu olacaksınız
+- Başkaları adına hesap **oluşturmayacak** veya hesap bilgilerinizi paylaşmayacaksınız
+
+## 6. Premium Özellikler ve Ödemeler
+
+### 6.1 Ücretsiz Kullanım ve Premium Özellikler
+
+Fovabera'nın kullanımı ücretsizdir. İlk 7 gün boyunca tüm özellikler herkese açıktır. Bu 7 günlük sürenin sonunda aşağıdaki özellikler tek seferlik premium satın alma gerektirir:
+
+- Yolculuk dönüm noktaları (genel, zamana dayalı başarı takibi)
+- Ödül kartları (biriktirdiğiniz parayla kendinize ödüller belirleme ve alma)
+
+Uygulamanın diğer tüm özellikleri ücretsiz kalır.
+
+### 6.2 Tek Seferlik Satın Alma
+
+Premium satın alma, premium özelliklere kalıcı ve sınırsız erişim sağlayan **tek seferlik bir ödemedir**. **Otomatik yenilenen abonelik veya tekrarlayan ücret yoktur** — tekrar ücretlendirilmezsiniz.
+
+### 6.3 Ödeme İşleme
+
+- Tüm ödemeler **Apple App Store** (iOS) veya **Google Play Store** (Android) tarafından işlenir
+- Ödeme bilgilerinizi **saklamıyoruz veya işlemiyoruz**
+- Fiyatlar satın alma sırasında uygulamada gösterilir ve ülkeye/bölgeye göre değişir
+
+### 6.4 Geri Ödemeler
+
+Geri ödeme politikaları, satın alma işlemini gerçekleştirdiğiniz platform (Apple App Store veya Google Play Store) tarafından yönetilir. Doğrudan geri ödeme işlemi yapmıyoruz. Premium, kanunen gereken haller dışında satın alma sonrası iade edilemez.
+
+## 7. Kullanıcı Davranışı
+
+Fovabera'yı kullanırken şunları YAPMAYACAĞINIZI kabul edersiniz:
+
+- ❌ Uygulamayı yasa dışı amaçlar için kullanmak
+- ❌ Diğer kullanıcıların hesaplarına veya sistemlerimize yetkisiz erişim sağlamaya çalışmak
+- ❌ Uygulamayı tersine mühendislik yapmak, derlemek veya parçalamak
+- ❌ Uygulamaya erişmek için otomatik sistemler (botlar, scraper'lar) kullanmak
+- ❌ Uygulamanın düzgün çalışmasına müdahale etmek
+- ❌ Zararlı kod, virüs veya kötü amaçlı yazılım yüklemek veya iletmek
+- ❌ Başka bir kişi veya kuruluşu taklit etmek
+- ❌ Geçerli yasaları veya yönetmelikleri ihlal etmek
+- ❌ Uygulamayı başkalarını taciz etmek, kötüye kullanmak veya zarar vermek için kullanmak
+
+## 8. Fikri Mülkiyet
+
+### 8.1 Bizim Haklarımız
+
+Fovabera ve tüm içeriği, özellikleri, tasarımı, kodu, logoları ve ticari markaları Fovabera'nın özel mülkiyetidir ve uluslararası telif hakkı, ticari marka ve diğer fikri mülkiyet yasalarıyla korunmaktadır.
+
+### 8.2 Sınırlı Lisans
+
+Bu Şartlara tabi olarak, Uygulamayı kişisel, ticari olmayan amaçlarla kullanmanız için sınırlı, münhasır olmayan, devredilemez, iptal edilebilir bir lisans veriyoruz.
+
+### 8.3 İçeriğiniz
+
+Fovabera'ya girdiğiniz herhangi bir verinin (başlangıç tarihi, kişisel notlar, ödül listesi öğeleri gibi) sahipliğini elinizde tutarsınız. Uygulamayı kullanarak, bu verileri **yalnızca** size hizmet sağlamak için kullanma, saklama ve işleme lisansı vermiş olursunuz.
+
+## 9. Gizlilik
+
+Fovabera'yı kullanımınız ayrıca **Gizlilik Politikamız** tarafından da yönetilir; bu politika, referans yoluyla bu Şartlara dahil edilmiştir. Lütfen Gizlilik Politikamızı şu adresten inceleyin: https://studio-releaf.github.io/releaf-legal/?doc=privacy&lang=tr
+
+## 10. Bildirimler
+
+Fovabera'yı kullanarak, aşağıdakilerle ilgili **yerel push bildirimleri** almayı kabul edersiniz:
+
+- Günlük motivasyon hatırlatmaları
+- Kilometre taşı kutlamaları
+- Genel ilerleme ve dönüm noktası güncellemeleri
+- Önemli hizmet duyuruları
+
+Cihaz ayarlarınızdan bildirimleri istediğiniz zaman devre dışı bırakabilirsiniz.
+
+## 11. Hizmet Erişilebilirliği
+
+- Fovabera'nın 7/24 erişilebilirliğini sürdürmek için çabalıyoruz ancak kesintisiz hizmet **garanti etmiyoruz**
+- Bakım, güncellemeler veya öngörülemeyen sorunlar için hizmeti geçici olarak durdurabiliriz
+- Hizmet kesintilerinden kaynaklanan rahatsızlıklardan sorumlu değiliz
+
+## 12. Güncellemeler ve Değişiklikler
+
+Özellik eklemek, hataları düzeltmek veya performansı iyileştirmek için Fovabera'yı güncelleyebiliriz. Uygulamayı kullanarak şunları kabul edersiniz:
+
+- Otomatik güncellemeleri almayı (cihazınızda etkinleştirildiğinde)
+- Bazı özelliklerin değişebileceğini veya kaldırılabileceğini onaylamayı
+- Güncellemelerden sonra Uygulamayı kendi takdirinize göre kullanmaya devam etmeyi
+
+## 13. Sona Erdirme
+
+### 13.1 Sizin Tarafınızdan
+
+Fovabera'yı istediğiniz zaman Uygulama üzerinden hesabınızı silerek veya **ataseversoftware@gmail.com** adresinden bize ulaşarak kullanmayı durdurabilirsiniz.
+
+### 13.2 Bizim Tarafımızdan
+
+Aşağıdaki durumlarda hesabınızı askıya alma veya sona erdirme hakkımızı saklı tutarız:
+
+- Bu Şartları ihlal etmeniz
+- Sahtekarlık veya zararlı faaliyetlerde bulunmanız
+- Diğer kullanıcılara veya sistemlerimize zarar verme riski oluşturan bir şekilde Uygulamayı kullanmanız
+
+## 14. Sorumluluk Reddi
+
+### 14.1 "Olduğu Gibi" Hizmet
+
+Fovabera, açık veya zımni hiçbir garanti olmaksızın **"OLDUĞU GİBİ" ve "MEVCUT OLDUĞU GİBİ"** sağlanır:
+
+- Ticari elverişlilik
+- Belirli bir amaca uygunluk
+- İhlal etmeme
+- Bilgilerin doğruluğu veya güvenilirliği
+
+### 14.2 Sonuç Garantisi Yoktur
+
+Fovabera'yı kullanmaktan belirli bir sonuç elde edeceğinize dair **hiçbir garanti vermiyoruz**. İlerlemeniz, Uygulamanın kontrolü dışındaki birçok faktöre bağlı olan kişisel bir yolculuktur.
+
+## 15. Sorumluluk Sınırlaması
+
+Yasanın izin verdiği azami ölçüde:
+
+- Dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zararlardan **sorumlu değiliz**
+- Bu Şartlardan veya Fovabera'yı kullanmanızdan doğan herhangi bir talep için toplam sorumluluğumuz, talepten önceki 12 ay içinde bize ödediğiniz miktarı (varsa) aşmayacaktır
+- Bazı yargı bölgeleri bu sınırlamalara izin vermez, bu nedenle size uygulanmayabilir
+
+## 16. Tazminat
+
+Aşağıdakilerden kaynaklanan herhangi bir talep, zarar, kayıp, sorumluluk ve gider (avukatlık ücretleri dahil) için Fovabera'yı, operatörlerini ve bağlı kuruluşlarını tazmin etmeyi ve zararsız tutmayı kabul edersiniz:
+
+- Fovabera'yı kullanımınız
+- Bu Şartları ihlaliniz
+- Başka bir tarafın haklarını ihlaliniz
+- Geçerli herhangi bir yasayı ihlaliniz
+
+## 17. Geçerli Hukuk ve Yargı
+
+Bu Şartlar, hukuk ihtilafları ilkelerine bakılmaksızın **Türkiye Cumhuriyeti** yasalarına tabidir.
+
+Bu Şartlardan veya Fovabera'yı kullanmanızdan doğan herhangi bir uyuşmazlık, ikamet ettiğiniz ülkenin zorunlu tüketici koruma yasaları aksini gerektirmedikçe, **Eskişehir, Türkiye** mahkemelerinde çözümlenecektir.
+
+## 18. Uluslararası Kullanım
+
+Fovabera küresel olarak erişilebilir. Türkiye dışından Uygulamayı kullanarak:
+
+- Geçerli tüm yerel yasalara uymayı kabul edersiniz
+- Verilerin kendi ülkeniz dışındaki ülkelere aktarılabileceğini ve saklanabileceğini onaylarsınız
+- Kullanımınızın yerel düzenlemelerinize uygun olmasından sorumlusunuzdur
+
+## 19. Bölünebilirlik
+
+Bu Şartların herhangi bir hükmünün geçersiz veya uygulanamaz olduğu tespit edilirse, kalan hükümler tam olarak yürürlükte kalmaya devam edecektir.
+
+## 20. Tüm Anlaşma
+
+Bu Şartlar, Gizlilik Politikamızla birlikte, sizinle Fovabera arasındaki Uygulamanın kullanımına ilişkin tüm anlaşmayı oluşturur ve önceki tüm anlaşmaların yerine geçer.
+
+## 21. Bu Şartlardaki Değişiklikler
+
+Bu Şartları zaman zaman güncelleyebiliriz. Güncelleme yaptığımızda:
+
+- Güncellenmiş Şartları uygulamada ve (varsa) web sitemizde yayınlarız
+- Üst kısımdaki "Son Güncelleme" tarihini güncelleriz
+- Önemli değişiklikler için sizi e-posta veya uygulama içi bildirim ile bilgilendiririz
+- Değişikliklerden sonra Fovabera'yı kullanmaya devam etmeniz, güncellenmiş Şartları kabul ettiğiniz anlamına gelir
+
+## 22. İletişim
+
+Bu Şartlar hakkında sorular, endişeler veya geri bildirimler için lütfen bize ulaşın:
+
+**İşletmeci:** Göker Atasever ("Atasever Software"), Türkiye
+**E-posta:** ataseversoftware@gmail.com
+**Yanıt Süresi:** 30 gün içinde
+
+---
+
+*Fovabera'yı kullanarak, bu Kullanım Şartlarını okuduğunuzu, anladığınızı ve kabul ettiğinizi onaylamış olursunuz.*
+
+**Fovabera — For A Better Era 🌱**
