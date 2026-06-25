@@ -6,29 +6,17 @@
   <meta name="description" content="Fovabera — Privacy Policy, Terms of Service, KVKK" />
   <title>Fovabera — Legal</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><text y='20' font-size='20'>🌱</text></svg>" />
-
-  <!-- Marked: Markdown → HTML -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
   <style>
-    /* ============================================
-       Fovabera renkleri — uygulamayla aynı
-       Primary: #1D9E75 (yeşil)
-       Secondary: #BA7517 (turuncu)
-       ============================================ */
     :root {
       --bg: #0F1419;
       --bg-alt: #1A2027;
       --surface: #232B33;
       --primary: #1D9E75;
       --primary-light: #5DCAA5;
-      --secondary: #EF9F27;
       --text: #E8EDF1;
       --text-muted: #8B9AA5;
       --border: rgba(255,255,255,0.08);
-      --shadow: 0 1px 3px rgba(0,0,0,0.4);
     }
-
     @media (prefers-color-scheme: light) {
       :root {
         --bg: #FAFBFC;
@@ -36,18 +24,13 @@
         --surface: #FFFFFF;
         --primary: #0F6E56;
         --primary-light: #1D9E75;
-        --secondary: #BA7517;
         --text: #1A2027;
         --text-muted: #6B7785;
         --border: rgba(0,0,0,0.08);
-        --shadow: 0 1px 3px rgba(0,0,0,0.06);
       }
     }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
-
-    html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
-
+    html { -webkit-text-size-adjust: 100%; }
     body {
       background: var(--bg);
       color: var(--text);
@@ -56,261 +39,81 @@
       line-height: 1.6;
       font-size: 16px;
       min-height: 100vh;
-      padding: 20px 16px 60px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 16px;
     }
-
-    /* ============================================
-       HEADER — Logo + dil seçici
-       ============================================ */
-    .header {
-      max-width: 760px;
-      margin: 0 auto 32px;
-      padding: 32px 24px;
-      background: var(--bg-alt);
-      border: 1px solid var(--border);
-      border-radius: 24px;
-      text-align: center;
-    }
-
+    .header { text-align: center; margin-bottom: 36px; }
     .logo {
       display: inline-flex;
       align-items: center;
       gap: 10px;
       margin-bottom: 8px;
     }
-
-    .logo-icon {
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 32px;
-    }
-
+    .logo-icon { font-size: 32px; }
     .logo-text {
       font-size: 32px;
       font-weight: 800;
       letter-spacing: -0.5px;
     }
-
-    .logo-text .brand { color: var(--text); }
+    .logo-text .brand { color: var(--secondary); }
     .logo-text .brand-accent { color: var(--primary-light); }
-
     .tagline {
       color: var(--text-muted);
       font-size: 14px;
       margin-top: 8px;
     }
-
-    /* ============================================
-       Dil + Sekme Seçici
-       ============================================ */
-    .controls {
-      max-width: 760px;
-      margin: 0 auto 24px;
-      display: flex;
-      gap: 12px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-
-    .control-group {
-      display: inline-flex;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 4px;
-      gap: 4px;
-    }
-
-    .btn {
-      background: transparent;
-      border: none;
-      color: var(--text-muted);
-      font-family: inherit;
-      font-size: 14px;
-      font-weight: 600;
-      padding: 8px 16px;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: all 0.15s ease;
-      white-space: nowrap;
-      -webkit-tap-highlight-color: transparent;
-    }
-
-    .btn:hover { color: var(--text); }
-
-    .btn.active {
-      background: var(--primary);
-      color: #FFFFFF;
-    }
-
-    /* ============================================
-       İÇERİK
-       ============================================ */
-    .content-wrapper {
-      max-width: 760px;
-      margin: 0 auto;
+    .card {
+      width: 100%;
+      max-width: 440px;
       background: var(--bg-alt);
       border: 1px solid var(--border);
       border-radius: 24px;
-      padding: 32px 28px;
+      padding: 28px 24px;
     }
-
-    @media (max-width: 600px) {
-      .content-wrapper { padding: 24px 20px; border-radius: 20px; }
-    }
-
-    .content {
-      color: var(--text);
-    }
-
-    .content h1 {
-      font-size: 28px;
-      font-weight: 800;
-      margin: 0 0 20px;
-      color: var(--primary-light);
-      letter-spacing: -0.5px;
-    }
-
-    .content h1:not(:first-child) {
-      margin-top: 48px;
-      padding-top: 32px;
-      border-top: 1px solid var(--border);
-    }
-
-    .content h2 {
-      font-size: 20px;
+    .card h1 {
+      font-size: 18px;
       font-weight: 700;
-      margin: 32px 0 12px;
+      margin-bottom: 18px;
+      text-align: center;
       color: var(--text);
     }
-
-    .content h3 {
-      font-size: 16px;
-      font-weight: 700;
-      margin: 24px 0 8px;
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .doc-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 18px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
       color: var(--text);
-    }
-
-    .content p {
-      margin: 0 0 14px;
-      color: var(--text);
-    }
-
-    .content strong { font-weight: 700; color: var(--text); }
-
-    .content ul, .content ol {
-      margin: 0 0 14px;
-      padding-left: 24px;
-    }
-
-    .content li {
-      margin: 6px 0;
-      color: var(--text);
-    }
-
-    .content a {
-      color: var(--primary-light);
       text-decoration: none;
-      border-bottom: 1px solid transparent;
-      transition: border-color 0.15s ease;
+      font-weight: 600;
+      font-size: 15px;
+      transition: all 0.15s ease;
     }
-
-    .content a:hover {
-      border-bottom-color: var(--primary-light);
-    }
-
-    .content hr {
-      border: none;
-      border-top: 1px solid var(--border);
-      margin: 32px 0;
-    }
-
-    .content code {
-      background: var(--surface);
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: "SF Mono", Monaco, "Cascadia Mono", monospace;
-      font-size: 0.9em;
-    }
-
-    .content blockquote {
-      margin: 16px 0;
-      padding: 12px 16px;
-      border-left: 3px solid var(--primary);
-      background: var(--surface);
-      border-radius: 0 8px 8px 0;
-      color: var(--text-muted);
-    }
-
-    /* Tablo - Privacy Policy'deki Service tablosu için */
-    .content table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 16px 0;
-      background: var(--surface);
-      border-radius: 8px;
-      overflow: hidden;
-      font-size: 14px;
-    }
-
-    .content table th, .content table td {
-      padding: 10px 12px;
-      text-align: left;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .content table th {
-      background: rgba(29,158,117,0.1);
-      font-weight: 700;
+    .doc-link:hover {
+      border-color: var(--primary);
       color: var(--primary-light);
     }
-
-    .content table tr:last-child td { border-bottom: none; }
-
-    /* ============================================
-       LOADING + ERROR STATE
-       ============================================ */
-    .loading {
-      text-align: center;
-      padding: 60px 20px;
+    .doc-link .arrow {
       color: var(--text-muted);
+      font-size: 18px;
     }
-
-    .spinner {
-      width: 32px;
-      height: 32px;
-      border: 3px solid var(--border);
-      border-top-color: var(--primary);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 12px;
-    }
-
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-
-    .error {
-      text-align: center;
-      padding: 40px 20px;
-      color: var(--text-muted);
-    }
-
-    /* ============================================
-       FOOTER
-       ============================================ */
+    .doc-link:hover .arrow { color: var(--primary-light); }
     .footer {
-      max-width: 760px;
-      margin: 32px auto 0;
-      padding: 16px;
+      margin-top: 28px;
       text-align: center;
       color: var(--text-muted);
       font-size: 13px;
     }
-
     .footer a {
       color: var(--primary-light);
       text-decoration: none;
@@ -318,139 +121,40 @@
   </style>
 </head>
 <body>
-
-  <!-- HEADER -->
   <div class="header">
     <div class="logo">
       <div class="logo-icon">🌱</div>
       <div class="logo-text">
-        <span class="brand">Fova</span><span class="brand-accent">bera</span>
+        <span class="brand">Fova</span><span class="brand-accent">b</span><span class="brand">era</span>
       </div>
     </div>
-    <div class="tagline" id="tagline">Quit smoking. Reclaim your life.</div>
+    <div class="tagline">For A Better Era.</div>
   </div>
 
-  <!-- KONTROLLER -->
-  <div class="controls">
-    <div class="control-group" role="tablist" aria-label="Document">
-      <button class="btn active" data-doc="privacy" id="btnPrivacy">Privacy Policy</button>
-      <button class="btn" data-doc="terms" id="btnTerms">Terms of Service</button>
-    </div>
-    <div class="control-group" role="tablist" aria-label="Language">
-      <button class="btn active" data-lang="en" id="btnEn">EN</button>
-      <button class="btn" data-lang="tr" id="btnTr">TR</button>
-    </div>
-  </div>
-
-  <!-- İÇERİK -->
-  <div class="content-wrapper">
-    <div class="content" id="content">
-      <div class="loading">
-        <div class="spinner"></div>
-        <div>Loading…</div>
-      </div>
+  <div class="card">
+    <h1>Legal Documents</h1>
+    <div class="links">
+      <a class="doc-link" href="privacy-en.html">
+        <span>Privacy Policy (English)</span><span class="arrow">&rarr;</span>
+      </a>
+      <a class="doc-link" href="privacy-tr.html">
+        <span>Gizlilik Politikas&#305; (T&#252;rk&#231;e)</span><span class="arrow">&rarr;</span>
+      </a>
+      <a class="doc-link" href="terms-en.html">
+        <span>Terms of Service (English)</span><span class="arrow">&rarr;</span>
+      </a>
+      <a class="doc-link" href="terms-tr.html">
+        <span>Kullan&#305;m &#350;artlar&#305; (T&#252;rk&#231;e)</span><span class="arrow">&rarr;</span>
+      </a>
     </div>
   </div>
 
-  <!-- FOOTER -->
   <div class="footer">
     <p>
-      © 2026 Fovabera. All rights reserved.
-      &nbsp;·&nbsp;
+      &copy; 2026 Fovabera. All rights reserved.
+      &nbsp;&middot;&nbsp;
       <a href="mailto:ataseversoftware@gmail.com">ataseversoftware@gmail.com</a>
     </p>
   </div>
-
-  <script>
-    const TAGLINES = {
-      en: "Quit smoking. Reclaim your life.",
-      tr: "Sigarayı bırak. Hayatına geri dön."
-    };
-
-    const LABELS = {
-      en: { privacy: "Privacy Policy", terms: "Terms of Service", loading: "Loading…", error: "Could not load document." },
-      tr: { privacy: "Gizlilik Politikası", terms: "Kullanım Şartları", loading: "Yükleniyor…", error: "Belge yüklenemedi." }
-    };
-
-    let currentDoc = 'privacy';
-    let currentLang = 'en';
-
-    // URL parametrelerini oku (?doc=privacy&lang=tr)
-    const params = new URLSearchParams(window.location.search);
-    if (params.get('doc') === 'terms') currentDoc = 'terms';
-    if (params.get('lang') === 'tr') currentLang = 'tr';
-
-    // Tarayıcı dilini algıla (URL parametresi yoksa)
-    if (!params.has('lang')) {
-      const browserLang = (navigator.language || 'en').toLowerCase();
-      if (browserLang.startsWith('tr')) currentLang = 'tr';
-    }
-
-    function updateControls() {
-      document.querySelectorAll('[data-doc]').forEach(b => {
-        b.classList.toggle('active', b.dataset.doc === currentDoc);
-      });
-      document.querySelectorAll('[data-lang]').forEach(b => {
-        b.classList.toggle('active', b.dataset.lang === currentLang);
-      });
-
-      document.getElementById('btnPrivacy').textContent = LABELS[currentLang].privacy;
-      document.getElementById('btnTerms').textContent = LABELS[currentLang].terms;
-      document.getElementById('tagline').textContent = TAGLINES[currentLang];
-      document.documentElement.lang = currentLang;
-
-      const titleBase = currentDoc === 'privacy' ? LABELS[currentLang].privacy : LABELS[currentLang].terms;
-      document.title = `Fovabera — ${titleBase}`;
-    }
-
-    async function loadDocument() {
-      const file = `${currentDoc}_${currentLang}.md`;
-      const contentEl = document.getElementById('content');
-
-      contentEl.innerHTML = `<div class="loading"><div class="spinner"></div><div>${LABELS[currentLang].loading}</div></div>`;
-
-      try {
-        const response = await fetch(file);
-        if (!response.ok) throw new Error('not found');
-        const md = await response.text();
-        const html = marked.parse(md);
-        contentEl.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      } catch (err) {
-        contentEl.innerHTML = `<div class="error">${LABELS[currentLang].error}</div>`;
-      }
-    }
-
-    function setDoc(doc) {
-      currentDoc = doc;
-      updateUrl();
-      updateControls();
-      loadDocument();
-    }
-
-    function setLang(lang) {
-      currentLang = lang;
-      updateUrl();
-      updateControls();
-      loadDocument();
-    }
-
-    function updateUrl() {
-      const newUrl = `${window.location.pathname}?doc=${currentDoc}&lang=${currentLang}`;
-      window.history.replaceState({}, '', newUrl);
-    }
-
-    // Event listeners
-    document.querySelectorAll('[data-doc]').forEach(btn => {
-      btn.addEventListener('click', () => setDoc(btn.dataset.doc));
-    });
-    document.querySelectorAll('[data-lang]').forEach(btn => {
-      btn.addEventListener('click', () => setLang(btn.dataset.lang));
-    });
-
-    // Başlat
-    updateControls();
-    loadDocument();
-  </script>
 </body>
 </html>
