@@ -1,39 +1,44 @@
-# Fovabera — Legal Documents
+Fovabera — Legal Documents
 
-This repository hosts the official legal documents for **Fovabera**, a mobile application designed to help users quit smoking.
+This repository hosts the official legal documents for Fovabera, a personal habit-tracking and motivation app.
 
-## 📄 Documents
+📄 Documents
 
-- **Privacy Policy** — How we collect, use, and protect user data
-- **Terms of Service** — User agreement and usage rules
-- **KVKK Aydınlatma Metni** — Turkish data protection notice (KVKK)
 
-## 🌍 Languages
+Privacy Policy — How we collect, use, and protect user data
+Terms of Service — User agreement and usage rules
+KVKK Aydınlatma Metni — Turkish data protection notice (included within the Turkish Privacy Policy)
 
-- 🇬🇧 English
-- 🇹🇷 Türkçe
 
-## 🔗 Live Site
+🌍 Languages
 
-Documents are hosted via **GitHub Pages** and accessible at:
 
-```
+🇬🇧 English
+🇹🇷 Türkçe
+
+
+🔗 Live Site
+
+Documents are hosted via GitHub Pages and accessible at:
+
 https://studio-releaf.github.io/releaf-legal/
-```
 
-You can also link directly with parameters:
+Direct links to each document:
 
-- `?doc=privacy&lang=en` — Privacy Policy (English)
-- `?doc=privacy&lang=tr` — Privacy Policy (Türkçe)
-- `?doc=terms&lang=en` — Terms of Service (English)
-- `?doc=terms&lang=tr` — Kullanım Şartları (Türkçe)
 
-## 📬 Contact
+Privacy Policy (English)
+Gizlilik Politikası (Türkçe)
+Terms of Service (English)
+Kullanım Şartları (Türkçe)
 
-- **Operator / Data Controller:** Göker Atasever ("Atasever Software")
-- **Email:** ataseversoftware@gmail.com
-- **Jurisdiction:** Eskişehir, Türkiye
 
----
+📬 Contact
+
+
+Operator / Data Controller: Göker Atasever ("Atasever Software")
+Email: ataseversoftware@gmail.com
+Jurisdiction: Eskişehir, Türkiye
+
+
 
 © 2026 Fovabera. All rights reserved.
